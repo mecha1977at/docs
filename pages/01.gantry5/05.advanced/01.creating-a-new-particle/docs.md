@@ -130,7 +130,7 @@ The third part is the meat and potatoes of the Particle. This is the body used t
 
 The bits that are placed between curly brackets such as `{{ particle.title|e }}` pull information from the fields set in the YAML and insert them into the Twig for rendering on the front end.
 
-! The `|e` that appears after the Particle field name in our example is a Twig filter. You can find a list of filters [here](http://twig.sensiolabs.org/doc/filters/index.html).
+! The `|e` that appears after the Particle field name in our example is a Twig filter. You can find a list of filters [here](https://twig.symfony.com/doc/filters/index.html).
 
 
 
